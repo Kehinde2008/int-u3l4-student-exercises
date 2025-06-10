@@ -14,6 +14,11 @@ let image = document.querySelector('.image');
 // 1. An event listener is provided for the `contentButton`
 // 2. When clicked, it should change the content of:
 //   - The `name` header.
+contentButton.addEventListener('click', function() { 
+     myName.innerHTML = "kehinde"
+});
+ myHobby.innerHTML = ('I like to travel');
+ myLocation =.innerHTML('I live in indiana');
 
 // -- RETURN TO LESSON --
 
