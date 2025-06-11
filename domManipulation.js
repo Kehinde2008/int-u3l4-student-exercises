@@ -18,7 +18,7 @@ contentButton.addEventListener('click', function() {
      myName.innerHTML = "kehinde"
 });
  myHobby.innerHTML = ('I like to travel');
- myLocation =.innerHTML('I live in indiana');
+ myLocation =innerHTML('I live in indiana');
 
 // -- RETURN TO LESSON --
 
